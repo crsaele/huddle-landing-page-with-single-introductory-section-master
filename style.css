@@ -21,6 +21,7 @@ body {
   min-height: 100vh;
   background-color: var(--violet);
   color: var(--white);
+  text-align: center;
   font-family: var(--openSans);
 }
 
@@ -35,6 +36,16 @@ h1 {
 .illustration {
   width: 350px;
   height: auto;
+}
+
+.register-btn {
+  background-color: var(--white);
+  font-family: var(--openSans);
+  font-weight: 400;
+  color: var(--violet);
+  padding: 0.8rem 5.5rem;
+  border: none;
+  border-radius: 30px;
 }
 
 .attribution {
