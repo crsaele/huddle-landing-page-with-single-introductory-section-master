@@ -27,6 +27,7 @@ body {
 
 h1 {
   font-family: var(--poppins);
+  margin: 10px 0;
 }
 
 header {
@@ -68,7 +69,7 @@ p {
 }
 
 .attribution {
-  font-size: 1.15rem;
+  font-size: 0.8rem;
   text-align: center;
 }
 .attribution a {
