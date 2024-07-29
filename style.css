@@ -43,6 +43,12 @@ p {
   margin: 10px 0;
 }
 
+i {
+  border-radius: 50%;
+  border: 1px solid var(--white);
+  padding: 8px;
+}
+
 .container {
   padding: 2em;
 }
@@ -66,6 +72,13 @@ p {
   border: none;
   border-radius: 30px;
   margin: 15px 0;
+}
+
+.icon-container {
+  display: flex;
+  margin: 15px 0;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .attribution {
